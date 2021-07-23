@@ -1,0 +1,75 @@
+run:
+Digite a hora
+21
+Digite o minuto
+0
+Digite o segundo
+0
+Digite o dia
+15
+Digite o mês
+02
+Digite o ano
+1995
+Digite o nome do paciente
+Jorge
+Digite o nome do medico
+Rodolfo
+ 
+Valores de p1
+
+paciente p1: Jorge
+medico p1: Rodolfo
+data p1: 15/2/1995
+hora p1: 21:00:00
+ 
+Digite o ano: 
+1995
+Digite o mês
+02
+Digite o dia: 
+22
+Digite a hora: 
+12
+Digite o minuto: 
+00
+Digite o segundo: 
+00
+Digite o nome do paciente
+Lucas
+Digite o nome do médico
+Roberto
+ 
+Valores de p2
+
+paciente p2: Lucas
+medico p2: Roberto
+data p2: 22/2/1995
+hora p2: 12:00:00
+ 
+Alterando p1
+Digite o ano: 
+1996
+Digite o mês
+05
+Digite o dia: 
+28
+Digite a hora: 
+16
+Digite o minuto: 
+15
+Digite o segundo: 
+00
+Digite novo nome do paciente
+Carlos
+Digite o novo nome do medico
+Luiz
+ 
+Valores de p1 alterados
+paciente p1: Jorge
+medico p1: Rodolfo
+data p1: 15/2/1995
+hora p1: 21:00:00
+ 
+quantidade: 2
+BUILD SUCCESSFUL (total time: 59 seconds)
